@@ -9,7 +9,7 @@ optar por la más apropiada, mediante el uso de algoritmos y lenguajes de progra
 
 ## Contenido del curso:
 
-[Módulo 1. Polinomios](https://github.com/JohnFlorez25/estructura-datos/tree/main/1.%20Polinomios) <br>
+[Módulo 1. Polinomios](https://github.com/JohnFlorez25/estructuras-datos/tree/main/1.%20Polinomios) <br>
 [Módulo 2. Matrices Dispersas]() <br>
 [Módulo 3. Árboles]() <br>
 [Módulo 4. Grafos]() <br>
