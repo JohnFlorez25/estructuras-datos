@@ -16,9 +16,9 @@ En su forma general, un polinomio representado como vector forma 1 quedaría def
 
 ## Métodos Principales Polinomio Vector Forma 1
 
-1. [Mostrar](https://github.com/JohnFlorez25/estructuras-datos/blob/main/1.%20Polinomios/1.%20Vector%20Forma%201/mostrar.md)
-2. [Ajustar]()
-3. [Insertar Término]()
-4. [Sumar]()
+1. [Mostrar](https://github.com/JohnFlorez25/estructuras-datos/blob/main/1.%20Polinomios/1.%20Vector%20Forma%201/1.mostrar.md)
+2. [Ajustar](https://github.com/JohnFlorez25/estructuras-datos/blob/main/1.%20Polinomios/1.%20Vector%20Forma%201/2.ajustar.md)
+3. [Sumar](https://github.com/JohnFlorez25/estructuras-datos/blob/main/1.%20Polinomios/1.%20Vector%20Forma%201/3.sumar.md)
+4. [Insertar Término]()
 5. [Multiplicar]()
 6. [Dividir]()
