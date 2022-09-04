@@ -3,9 +3,7 @@
 ## Acciones a realizar
 
 1. Configure un proyecto en su editor de código de preferencia realizados bajo el lenguaje de programación **Java**.
-<br/>
 2. Ejecute la clase principal y visualice el resultado por consola.
-<br/>
 3. **Agregue los métodos:**
 - Insertar termino
 - Dividir dos polinomios
