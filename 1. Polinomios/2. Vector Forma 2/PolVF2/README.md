@@ -14,6 +14,10 @@
 - Multiplicar dos Polinomios
 - Eliminar término de un Polinomio
 
-4. **Resultado esperado**
+4. **Resultado Inicial**
+
+![Ejemplo IGU PolVF2](../../../assets/polinomios/polinomio_11.png)
+
+5. **Resultado Esperado**
 
 ![Ejemplo IGU PolVF2](../../../assets/polinomios/polinomio_10.png)
