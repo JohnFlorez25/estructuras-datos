@@ -58,7 +58,9 @@ public static void insertarTermino(int vec[], int coef, int exp){
                 vec[0] = vec[0] - 1;
             }
         }else {
-            System.out.println("El exponente no éxiste en el vector");
+            System.out.println("El exponente no existe en el vector");
         }
     }
 ```
+
+🎖 **Ejercicio de Práctica:** Considere que se pueda insertar un término polinomial donde el exponente si éxiste en el vector, realice el pseudocódigo.
