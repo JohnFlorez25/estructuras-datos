@@ -25,5 +25,5 @@ Estudiaremos como representar los polinomios en el computador y como realizar la
 ### Representación de polinomios en memoria
 
 1. [En vector Forma 1](https://github.com/JohnFlorez25/estructuras-datos/tree/main/1.%20Polinomios/1.%20Vector%20Forma%201)
-2. [En vector Forma 2]()
+2. [En vector Forma 2](https://github.com/JohnFlorez25/estructuras-datos/tree/main/1.%20Polinomios/2.%20Vector%20Forma%202)
 3. [En Listas Ligadas]()
