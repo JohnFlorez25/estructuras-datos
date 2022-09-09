@@ -21,5 +21,5 @@ La siguiente figura muestra la representación del polinomio en una lista ligada
 ![Diagrama de Clases PolF3](../../assets/polinomios/polinomio_16.png)
 ## Prácticas POO en Java Polinomio Forma 3
 
-1. [Consola]()
-2. [IGU]()
+1. [Consola](https://github.com/JohnFlorez25/estructuras-datos/tree/main/1.%20Polinomios/3.%20Listas%20Ligadas/PolF3-console)
+2. [IGU](https://github.com/JohnFlorez25/estructuras-datos/tree/main/1.%20Polinomios/3.%20Listas%20Ligadas/PolF3-IGU)
