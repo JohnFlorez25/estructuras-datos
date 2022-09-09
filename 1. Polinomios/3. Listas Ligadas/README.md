@@ -16,6 +16,9 @@ La siguiente figura muestra la representación del polinomio en una lista ligada
 
 ![Ejemplo Forma 2](../../assets/polinomios/polinomio_13.png)
 
+## Diagrama de Clases
+
+![Diagrama de Clases PolF3](../../assets/polinomios/polinomio_16.png)
 ## Prácticas POO en Java Polinomio Forma 3
 
 1. [Consola]()
