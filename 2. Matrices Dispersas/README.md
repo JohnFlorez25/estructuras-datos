@@ -18,6 +18,6 @@ En aras de preservar los principios de economía: mínimo consumo de memoria y u
 
 ### Representación de Matrices Dispersas
 
-1. [Listas de Tripletas]()
+1. [Listas de Tripletas](https://github.com/JohnFlorez25/estructuras-datos/tree/main/2.%20Matrices%20Dispersas/1.%20Lista%20de%20Tripletas)
 2. [Listas Ligadas Forma 1]()
 3. [Listas Ligadas Forma 2]()
