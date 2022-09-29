@@ -27,8 +27,8 @@ Obteniendo la siguiente representación:
 
 ## Métodos Principales Matrices Dispersas representadas en Listas Ligadas Forma 1
 
-1. [Construir Cabezas]()
-2. [Ligar Fila]()
-3. [Ligar Columna]()
-4. [Insertar Término]()
-5. [Mostrar]()
+1. [Construir Cabezas](https://github.com/JohnFlorez25/estructuras-datos/blob/main/2.%20Matrices%20Dispersas/2.%20Listas%20Ligadas%20Forma%201/constuirCabezas.md)
+2. [Ligar Fila](https://github.com/JohnFlorez25/estructuras-datos/blob/main/2.%20Matrices%20Dispersas/2.%20Listas%20Ligadas%20Forma%201/ligarFila.md)
+3. [Ligar Columna](https://github.com/JohnFlorez25/estructuras-datos/blob/main/2.%20Matrices%20Dispersas/2.%20Listas%20Ligadas%20Forma%201/ligarColumna.md)
+4. [Insertar Término](https://github.com/JohnFlorez25/estructuras-datos/blob/main/2.%20Matrices%20Dispersas/2.%20Listas%20Ligadas%20Forma%201/insertarDato.md)
+5. [Mostrar](https://github.com/JohnFlorez25/estructuras-datos/blob/main/2.%20Matrices%20Dispersas/2.%20Listas%20Ligadas%20Forma%201/mostrar.md)
