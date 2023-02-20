@@ -14,12 +14,12 @@ PolF2:PolF2::sumar( PolF2: b)
         expB =   b.obtenerDato( j )
         coeA = Vec[ i + 1]
         coeB = b.obtenerDato( j + 1 )
-            si  expA = exB  entonces
+            si  expA = expB  entonces
                 c.insertarTermino(  coeA + coeB ,expA )
                 i = i + 2
                 j= j + 2
             sino
-                si  expA >exB entonece
+                si  expA >expB entonece
                 c. insertarTermino (  coeA ,expA)
                 i = i + 2
                 si_no
