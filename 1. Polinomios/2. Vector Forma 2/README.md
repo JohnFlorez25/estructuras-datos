@@ -19,3 +19,4 @@ En su forma general, un polinomio representado como vector forma 2 quedaría def
 1. [Mostrar](https://github.com/JohnFlorez25/estructuras-datos/blob/main/1.%20Polinomios/2.%20Vector%20Forma%202/mostrar.md)
 2. [Insertar Término](https://github.com/JohnFlorez25/estructuras-datos/blob/main/1.%20Polinomios/2.%20Vector%20Forma%202/insertarTermino.md)
 3. [Sumar](https://github.com/JohnFlorez25/estructuras-datos/blob/main/1.%20Polinomios/2.%20Vector%20Forma%202/sumar.md)
+4. [Comparar Polinomios](https://github.com/JohnFlorez25/estructuras-datos/blob/main/1.%20Polinomios/2.%20Vector%20Forma%202/compararPolinomios.md)
