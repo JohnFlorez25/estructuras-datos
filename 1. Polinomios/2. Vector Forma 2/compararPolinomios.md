@@ -1,4 +1,4 @@
-# Método Comparar Polinomios Representados de diferentes formas
+# Método Comparar Polinomios Representados de Diferentes Formas
 
 Antes de comenzar, nótese que "a" es un polinomio representado en la forma 1 y "b" es un polinomio representado en la forma 2.
 El método compara cada coeficiente de "b" con los coeficientes de "a" aprovechandose de la siguiente fórmula:
