@@ -15,11 +15,11 @@ Partiendo de la siguiente **Matriz Dispersa**
 
 Podemos identificar las siguientes **Listas Ligadas Circulares por Filas y Columnas** con sus respectivo nodo cabeza.
 
-![Ejemplo LSCL F y C F2](../../assets/matrices_dispersas/dispersas_8.png)
+![Ejemplo LSCL F y C F2]()
 
 Obteniendo la siguiente representación:
 
-![Ejemplo LSCL F y C](../../assets/matrices_dispersas/dispersas_6.png)
+![Ejemplo LSCL F y C]()
 
 ## Métodos Principales Matrices Dispersas representadas en Listas Ligadas Forma 2
 
